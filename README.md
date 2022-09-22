@@ -2,8 +2,10 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](e-mail:roberta.bsouza@ufpe.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertabsouza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_gestordainformacao/)
+[![Slack](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](RobertaSouza#4692)
 
-![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=RobSouzaUFPE&show_icons=true&theme=tokyonight)]
+![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=RobSouzaUFPE&show_icons=true&theme=tokyonight)
+
 
 ### Tecnologias que uso atualmente, por ordem de práticas
 
