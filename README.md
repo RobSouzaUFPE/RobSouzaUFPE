@@ -24,7 +24,7 @@
 
 Gosto de muito de aprender. 
 Sou entusiasta da tecnologia e da educação! 
-Sou mãe de pet, adoooro cachorro, chocolate e café.
+
 
 ## Atualmente envolvida com:
 
