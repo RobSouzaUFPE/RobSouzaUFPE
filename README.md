@@ -36,11 +36,4 @@ Gosto de aprender e sou apaixonada por tecnologia e educação. Quando estive na
    <img align="center" alt="htlm5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />    
 </div></br> 
 
-Gosto de muito de aprender. 
-Sou entusiasta da tecnologia e da educação! 
 
-
-## Atualmente envolvida com:
-
-- pesquisa 
-- estudando programação para trabalhar da melhor forma com dados e informação.
